@@ -1,22 +1,48 @@
-- MDS
-  - [MDS](cn/mds.md)
 
-- Chunkserver
-  - [Chunkserver](cn/chunkserver_design.md)
 
-- Client
-  - [NEBD](cn/nebd.md)
-  - [Client](cn/curve-client.md)
-  - [Client Python API](cn/curve-client-python-api.md)
+## 关于Curve
 
-- 快照克隆
-  - [Snapshotcloneserver](cn/snapshotcloneserver.md)
 
-- 其他
-  - [CURVE质量体系介绍](cn/quality.md)
-  - [CURVE监控体系介绍](cn/monitor.md)
+## 快速上手
 
-- 应用
-  - [对接k8s文档](cn/k8s_csi_interface.md)
 
-    
+## 运维手册
+
+
+## 生态对接
+
+1. k8s：kubevirt、csi等
+2. openstack：nova、cinder、glance等
+3. libvirt/qemu
+4. nbd
+5. fuse
+6. PFS
+7. TGT
+8. fio
+...
+
+
+## 架构介绍
+
+
+
+## 版本列表
+
+
+## 功能清单
+
+
+## 性能指标
+
+
+
+## 参与贡献
+
+
+
+## 联系社区
+
+
+
+
+
